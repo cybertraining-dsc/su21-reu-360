@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
+title: "Project: Classification of Hyperspectral Images"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
-author: Firstanme, Lastname
+author: Carlos, Theran
 github_url: https://github.com/cybertraining-dsc/su21-reu-360/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-360](https://github.com/cybertraining-dsc/su21-reu-360), [Edit](https://github.com/cybertraining-dsc/su21-reu-360/blob/main/project/index.md)
+Carlos Theran, [su21-reu-360](https://github.com/cybertraining-dsc/su21-reu-360), [Edit](https://github.com/cybertraining-dsc/su21-reu-360/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
