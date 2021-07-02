@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 title: "Project: Classification of Hyperspectral Images"
-linkTitle: Example
+linkTitle: Hyperspectral Images
 tags: ["project", "reu"]
 description: "Here comes the abstract"
 author: Carlos, Theran
